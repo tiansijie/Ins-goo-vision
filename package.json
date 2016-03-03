@@ -1,0 +1,15 @@
+{
+  "name": "ins-goo-vision",
+  "version": "1.0.0",
+  "description": "Using google cloud vision to detect your instagram image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "request": "^2.69.0"
+  }
+}
